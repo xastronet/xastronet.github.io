@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://xastronet.github.io/sitemap.xml

@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>科技 on Astro Planet</title>
+    <link>https://xastronet.github.io/tags/%E7%A7%91%E6%8A%80/</link>
+    <description>Recent content in 科技 on Astro Planet</description>
+    <image>
+      <url>https://xastronet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xastronet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Nov 2021 17:30:30 +0800</lastBuildDate><atom:link href="https://xastronet.github.io/tags/%E7%A7%91%E6%8A%80/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>什么是功率因数？功率因数的由来和含义是什么呢？图文详解</title>
+      <link>https://xastronet.github.io/a/b6be80a9ec69/</link>
+      <pubDate>Tue, 30 Nov 2021 17:30:30 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/b6be80a9ec69/</guid>
+      <description>功率因数是什么意思？不少电气人都是一知半解。电路中的电流包含两部分：有功分量和无功分量，有功分量是可以转化为其他如热能、机械能等，是对电器直接起作用的那部分，而无功分量是在线路中来回走动，什么事也不干的那种，它仅仅起到建立电场作用，对电器是没有起到推动作用的。</description>
+    </item>
+    
+    <item>
+      <title>微软现阶段没有计划将新Emoji引入到Windows 10系统中</title>
+      <link>https://xastronet.github.io/a/300cbebf3814/</link>
+      <pubDate>Tue, 30 Nov 2021 00:53:34 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/300cbebf3814/</guid>
+      <description>在日前发布的可选更新中，微软向 Windows 11 用户开放了基于 Fluent Design 的全新 Emoji 系列，其中就包括具有非常高知名度的大眼夹（Clippy）。但遗憾的是，微软现阶段并没有计划将这些 Emoji 引入到 Windows 10 系统中。</description>
+    </item>
+    
+    <item>
+      <title>JAVA进阶知识学习-day03 数据结构&amp;List集合&amp;Set集合</title>
+      <link>https://xastronet.github.io/a/3e9efbbd0dd4/</link>
+      <pubDate>Sun, 28 Nov 2021 21:47:59 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/3e9efbbd0dd4/</guid>
+      <description>一、数据结构 1.1 常见的数据结构——栈 1.1.1 栈的特点：先进后出（存进去的元素，要在后它后面的元素依次取出后，才能取出该元素） 1.1.2 栈的常用名词： 压栈：就是存元素。把元素存储到栈的顶端位置，栈中已有元素依次向栈底方向移动一个位置。</description>
+    </item>
+    
+    <item>
+      <title>阳极保护系统参比电极的作用</title>
+      <link>https://xastronet.github.io/a/d6f9092d58f1/</link>
+      <pubDate>Thu, 25 Nov 2021 05:56:23 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/d6f9092d58f1/</guid>
+      <description>在阳极保护系统中，须使被保护设备的电位控制在规定的电位范围内，才能获得成功的阳极保护效果。因此，在阳极保护系统运行时，应该持续测量和控制设备电位，参比电极就是准确可靠的获取电位信号的传感器。阳极保护所用的参比电极应满足下列一些主要的要求： ①电极表面反应是可逆的电极过程，具有稳定的、不随时间而变的电位； ②电极过程的交换电流密度相当高，是不极化或难以极化的电极体系； ③电极电位的温度系数很小； ④电极电位再现性高，电极在工作环境中具有稳定的电位，不受环境条件波动的影响； ⑤电极与工作介质互不污染，且液界电位小； ⑥电极结构坚固，材料稳定，制造及使用方便。</description>
+    </item>
+    
+    <item>
+      <title>InnoDB 如何查看数据库中的锁</title>
+      <link>https://xastronet.github.io/a/b8b6132d5d8b/</link>
+      <pubDate>Wed, 24 Nov 2021 00:04:53 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/b8b6132d5d8b/</guid>
+      <description>在InnoDB 1.0版本之前，用户只能通过命令SHOW FULL PROCESSLIST，SHOWENGINE INNODB STATUS等来查看当前数据库中锁的请求，然后再判断事务锁的情况。从InnoDB1.0开始，在INFORMATION_SCHEMA架构下添加了表INNODB_TRX、INNODB_LOCKS、INNODB_LOCK_WAITS。</description>
+    </item>
+    
+    <item>
+      <title>商业公司在轨测试新型碘基等离子体推进器</title>
+      <link>https://xastronet.github.io/a/47a2d02f4522/</link>
+      <pubDate>Mon, 22 Nov 2021 00:22:31 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/47a2d02f4522/</guid>
+      <description>大多数人可能通过碘作为消毒剂的作用而熟悉碘。但是，如果你在高中化学课上一直保持清醒，那么你可能看到过加热碘粉的演示。因为在大气压下，它的熔点和沸点非常接近，所以碘在加热时很容易形成一种紫色的气体。</description>
+    </item>
+    
+    <item>
+      <title>36项成果！1771万！这场拍卖会为何这么火？</title>
+      <link>https://xastronet.github.io/a/5f29ec48da89/</link>
+      <pubDate>Sat, 20 Nov 2021 18:04:50 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/5f29ec48da89/</guid>
+      <description>随着最后一声清脆的槌响，2021浙江科技成果竞价（拍卖）会杭州职业技术学院专场活动落下帷幕，一槌定音，槌起槌落间36项科技成果都找到了“用武之地”。日前，2021浙江科技成果竞价（拍卖）会杭职院专场在杭州职业技术学院举办，拍卖会上共36个科技成果，经过多轮激烈竞价完成交易，交易额1771万元。</description>
+    </item>
+    
+    <item>
+      <title>用眼监控技术或将商用在VR产品，穿戴设备功能真的玩出花了</title>
+      <link>https://xastronet.github.io/a/8431965a305e/</link>
+      <pubDate>Fri, 19 Nov 2021 03:48:15 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/8431965a305e/</guid>
+      <description>穿戴设备功能真的玩出花了，甚至快赶上手机了，现在一项很超前的功能可能要来临，不围观一下？绿厂近期公布了一项“用眼监控方法”专利，用户戴上之后就可以监测眼睛疲劳时间，还会有缓解策略，这真是头一回看见，穿戴式设备的功能真的越来越人性化了。</description>
+    </item>
+    
+    <item>
+      <title>再谈欧姆定律的成立条件</title>
+      <link>https://xastronet.github.io/a/54a98d88d55e/</link>
+      <pubDate>Thu, 18 Nov 2021 17:58:54 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/54a98d88d55e/</guid>
+      <description>前几天本人谈到欧姆定律的适用条件问题，本是一个很简单的问题，不料引起巨大争议，现在再谈一下本人观点。一、欧姆定律 欧姆定律说的是导体中的电流跟导体两端的电压成正比，跟导体的电阻成反比，即I=U/R。大家都知道，当y与x成正比时，有y=kx，k为一常数，图线为一经过原点的直线。</description>
+    </item>
+    
+    <item>
+      <title>给实拍视频加动态贴纸，Blender多功能模块组合教学（上）</title>
+      <link>https://xastronet.github.io/a/bf588fa11f79/</link>
+      <pubDate>Tue, 16 Nov 2021 12:55:13 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/bf588fa11f79/</guid>
+      <description>熟悉Premiere Pro或After Effects的读者朋友们可能知道，对于实拍视频的后期处理，摄像机反求跟踪是一个非常重要的功能，简单的效果譬如添加指引包装，复杂的效果好比构建AR虚拟世界，都需要基于跟踪效果来完成，而我们本期为大家带来的教程也同样需要在跟踪的基础上，为我们的实拍视频添加一个会跟随变化的动态贴纸，它甚至会跟随我们的手指变化，像真的贴纸那样随重力和惯性摆动摇晃，一起来看看是怎样实现的吧。</description>
+    </item>
+    
+    <item>
+      <title>好用的企业邮箱怎么选择？可用邮箱大全</title>
+      <link>https://xastronet.github.io/a/0c66c70a7c06/</link>
+      <pubDate>Mon, 15 Nov 2021 23:47:03 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/0c66c70a7c06/</guid>
+      <description>朋友委托我帮忙看看可用邮箱大全有哪些？好用的企业邮箱是多少？他公司要开通企业邮箱。</description>
+    </item>
+    
+    <item>
+      <title>水下预制块模具-整体式联锁块软体排模具-海底管道软体排模具</title>
+      <link>https://xastronet.github.io/a/95acd4552a8c/</link>
+      <pubDate>Mon, 15 Nov 2021 14:07:53 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/95acd4552a8c/</guid>
+      <description>水下预制块模具-整体式联锁块软体排模具-海底管道软体排模具介绍：水下预制块模具通常采用的有低熔点合金、铝合金、锌基合金、铍铜合金，甚至塑料等材料做海底管道软体排模具模具。国外研制了一种增强塑料来制造注塑模的型腔和型芯，其主要成分为塑料中加碳纤维和专用填料，其导热性接近铝，而耐磨性比铝好。</description>
+    </item>
+    
+    <item>
+      <title>周智伟 | 四旋翼无人机航路优化方法</title>
+      <link>https://xastronet.github.io/a/1d8b37ffae63/</link>
+      <pubDate>Mon, 15 Nov 2021 06:18:35 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/1d8b37ffae63/</guid>
+      <description>瑞士苏黎世大学的研究人员提出了一种无人机最优航路快速规划方法。自主四旋翼无人机已用于巡查、摄影摄像、搜救等领域。受电池容量限制，四旋翼无人机需要规划最优航路，减少无效飞行。</description>
+    </item>
+    
+    <item>
+      <title>扎克伯格的元宇宙不是未来，元宇宙最后将引人类走向死路？</title>
+      <link>https://xastronet.github.io/a/f5cac6a5f324/</link>
+      <pubDate>Sun, 14 Nov 2021 11:36:15 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/f5cac6a5f324/</guid>
+      <description>#元宇宙# 真实世界的规则谁说了也不算，归自然规律说了算。元宇宙的规则谁说了算？扎克说了算还是小管家们说了算？</description>
+    </item>
+    
+    <item>
+      <title>小型飞机驾驶证怎么考</title>
+      <link>https://xastronet.github.io/a/e2d10a61c9a8/</link>
+      <pubDate>Sat, 13 Nov 2021 13:46:39 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/e2d10a61c9a8/</guid>
+      <description>首先先体检然后学习基础的理论知识，再经过一段时间训练，就可以考试了。1、飞机（外文名：aeroplane，airplane）是指具有一具或多具发动机的动力装置产生前进的推力或拉力，由机身的固定机翼产生升力，在大气层内飞行的重于空气的航空器。</description>
+    </item>
+    
+    <item>
+      <title>1.5 String在Java中引用</title>
+      <link>https://xastronet.github.io/a/50424568134a/</link>
+      <pubDate>Fri, 12 Nov 2021 12:16:23 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/50424568134a/</guid>
+      <description>这个是Java的经典问题。许多类似的问题在stackoverflow被提问，有很多不正确或不完备的答案。如果不想太多你会认为这个问题比较简单。</description>
+    </item>
+    
+    <item>
+      <title>false=213,true等于多少</title>
+      <link>https://xastronet.github.io/a/036e4a94a11c/</link>
+      <pubDate>Thu, 11 Nov 2021 21:48:06 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/036e4a94a11c/</guid>
+      <description>等于268 1、print后面表示的是关系运算符，即”a=2“，而a如果没有定义，则其值为null，null&amp;lt;&amp;gt;2,返回false，如果a有值，题主自行进行逻辑计算，即可得出答案，这里唯一需要注意的就是=现在是关系运算符，而关系运算符返回的false。</description>
+    </item>
+    
+    <item>
+      <title>浸没式散热冷却液-电子氟化液</title>
+      <link>https://xastronet.github.io/a/aefff96dd2a5/</link>
+      <pubDate>Tue, 09 Nov 2021 18:36:25 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/aefff96dd2a5/</guid>
+      <description>随着IT技术和互联网需求的暴增，5G网络，人工智能以及工业互联网将会获得飞速发展。传统制冷系统已到瓶颈，液冷技术生态化正在形成。要想解决如此之高的能耗问题，传统风冷和水冷空调散热方式将变得力不从心，只有通过液冷才是根本的解决之道。</description>
+    </item>
+    
+    <item>
+      <title>会玩，连钱包都是钛合金打造的！</title>
+      <link>https://xastronet.github.io/a/f14e422eeac5/</link>
+      <pubDate>Mon, 08 Nov 2021 15:46:20 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/f14e422eeac5/</guid>
+      <description>设计工作室Tessellate Studio的设计师Craig Brice设计并3D打印了一款网格造型的钱包，使用了钛合金和碳纤维材料。不过这个钱包看起来更像卡包，因为主要用来装各种银行卡还有折叠后的纸钞。</description>
+    </item>
+    
+    <item>
+      <title>由非磁性粉末 3D 打印的磁性合金</title>
+      <link>https://xastronet.github.io/a/367f611c6fb4/</link>
+      <pubDate>Thu, 04 Nov 2021 09:32:53 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/367f611c6fb4/</guid>
+      <description>俄罗斯的研究生研究型大学Skoltech的一组研究人员在《材料加工技术》杂志上发表了一篇文章，公布了他们最新的研究成果，一种3D打印的梯度合金。根据他们的介绍，这种合金由两种非磁性材料3D打印而成，两种成分会在一个区域和另外一个区域之间不断变化，从而让这种梯度合金具有磁性。</description>
+    </item>
+    
+  </channel>
+</rss>

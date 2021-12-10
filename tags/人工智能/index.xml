@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>人工智能 on Astro Planet</title>
+    <link>https://xastronet.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</link>
+    <description>Recent content in 人工智能 on Astro Planet</description>
+    <image>
+      <url>https://xastronet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://xastronet.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 30 Nov 2021 03:10:41 +0800</lastBuildDate><atom:link href="https://xastronet.github.io/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>「优视智联」新品高光来袭！业界最强细节呈现，赋能于安防数智化</title>
+      <link>https://xastronet.github.io/a/f65fb42165f3/</link>
+      <pubDate>Tue, 30 Nov 2021 03:10:41 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/f65fb42165f3/</guid>
+      <description>据Odmia调查了解，4k 400万像素以上的图像传感器的出货增速明显，Omdia判断，4k及以上分辨率整机出货预计在未来五年，将以每年30%以上的速度进行增长。随着人工智能、物联网、5G网络等新兴技术的应用落地，智慧城市建设已经成为现代城市发展的重要课题。</description>
+    </item>
+    
+    <item>
+      <title>物联网技术和智慧消防的关系</title>
+      <link>https://xastronet.github.io/a/5f16e4e76803/</link>
+      <pubDate>Sun, 28 Nov 2021 08:26:39 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/5f16e4e76803/</guid>
+      <description>物联网技术就是人工智能，而人工智能是人们争相研究的学科。对于智慧消防行业来说，物联网技术是基石，也是动力。智慧消防主要是用高科技产品帮助人们更好地管理生活的方方面面，利用这些高科技就需要用到物联网技术。</description>
+    </item>
+    
+    <item>
+      <title>新的机器学习系统赋予机器人社会技能</title>
+      <link>https://xastronet.github.io/a/b0e742fb4a19/</link>
+      <pubDate>Tue, 09 Nov 2021 07:04:20 +0800</pubDate>
+      
+      <guid>https://xastronet.github.io/a/b0e742fb4a19/</guid>
+      <description>机器人可以在大学校园里运送食物，在高尔夫球场上打出一杆进洞，但即使是最复杂的机器人也不能进行对人类日常生活至关重要的基本社会互动。现在，一个新的机器学习系统帮助机器人理解并执行某些社会互动。麻省理工学院研究人员现在已将某些社会互动纳入机器人的框架，使机器能够理解相互帮助或阻碍的含义，并学会自己执行这些社会行为。</description>
+    </item>
+    
+  </channel>
+</rss>
